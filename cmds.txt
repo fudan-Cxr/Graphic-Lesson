@@ -1,6 +1,0 @@
-sudo apt-get install build-essential cmake
-sudo apt-get install freeglut3-dev xorg-dev libxrandr-dev libsdl2-dev
-build/a1 ./swp/core.swp
-sample_solution/athena/a1 swp/core.swp
-build/a1 ./swp/wineglass.swp
-build/a1 ./swp/weird.swp
